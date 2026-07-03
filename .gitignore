@@ -1,0 +1,7 @@
+*.class
+*.log
+*.jar
+bin/
+out/
+.idea/
+.vscode/
